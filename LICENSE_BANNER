@@ -1,0 +1,8 @@
+/*!
+ *  xfilter <%= conf.pkg.version %>
+ *  http://att.github.io/xfilter/
+ *  Copyright (c) 2012-2013 AT&T Intellectual Property
+ *
+ *  Licensed under the MIT License
+ *  https://github.com/att/xfilter/blob/master/LICENSE
+ */

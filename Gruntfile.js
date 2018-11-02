@@ -141,6 +141,7 @@ module.exports = function (grunt) {
                             '<%= conf.pkg.name %>.js.map',
                             '<%= conf.pkg.name %>.min.js',
                             '<%= conf.pkg.name %>.min.js.map',
+                            'node_modules/html2canvas/dist/html2canvas.js',
                             'node_modules/leaflet/dist/leaflet.js'
                         ],
                         dest: '<%= conf.web %>/js/'
